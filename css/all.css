@@ -222,7 +222,7 @@ table {
     text-decoration: none;
 }
 
-.product_nav .text-style {
+.product_nav .text-style, .product_nav .text-style2{
     font-size: 24px;
     text-align: center;
     padding: 16px;
